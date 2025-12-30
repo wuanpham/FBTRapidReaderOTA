@@ -13,7 +13,7 @@
 #include "button.h"
 #include "bluetooth.h"
 
-int currentVersion = 0;
+int currentVersion = 1;
 String baseUrl = "https://raw.githubusercontent.com/wuanpham/FBTRapidReaderOTA/" + FirmwareVer + "/";
 String checkFile = "updateOTA.json";
 
